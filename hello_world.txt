@@ -1,1 +1,2 @@
 Hello World!
+Test: git commit -m in code editor.
